@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BottomSheetDialog_Example</string>
+    <string name="select_loc">서비스 지역을 선택해 주세요.</string>
+    <string name="select">선택</string>
+    <string name="search">검색</string>
+    <string name="start_hint">출발지로 선택합니다.</string>
+    <string name="no_confirm_start">출발지를 검색해주세요.</string>
+    <string name="dest_hint">도착지로 선택합니다.</string>
+</resources>
